@@ -4,4 +4,4 @@ third edition(updated by nano)
 issue resolved
 hotfix my solution
 hotfix team's solution
-
+new func added
